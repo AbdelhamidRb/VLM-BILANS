@@ -3,4 +3,7 @@ __pycache__/
 *.pyc
 .env
 data/images/
+data/pdf/
 compte_rendu.md
+.vscode/
+data/processed/
