@@ -1,0 +1,136 @@
+{
+  "version": "v1",
+  "document": "bilan_group_4",
+  "actif": {
+    "metadata": {
+      "company_name": "GHALINA RENT CAR",
+      "document_title": "BILAN (Actif)",
+      "model": "Modèle Normal",
+      "fiscal_id": "52522728",
+      "exercise_period": "01/01/2024 au 31/12/2024"
+    },
+    "columns": [
+      "Libellé",
+      "Brut",
+      "Amortissements_Provisions",
+      "Net_N",
+      "Net_N-1"
+    ],
+    "data": [
+      {
+        "rubrique": "IMMOBILISATIONS EN NON VALEURS (A)",
+        "brut": "43 215.00",
+        "amort_prov": "11 541.59",
+        "net": "31 673.41",
+        "net_precedent": "19 148.12"
+      },
+      {
+        "rubrique": "Charges à répartir sur plusieurs exercices",
+        "brut": "43 215.00",
+        "amort_prov": "11 541.59",
+        "net": "31 673.41",
+        "net_precedent": "19 148.12"
+      },
+      {
+        "rubrique": "IMMOBILISATIONS CORPORELLES (C)",
+        "brut": "2 875 189.17",
+        "amort_prov": "715 927.61",
+        "net": "2 159 261.56",
+        "net_precedent": "1 221 273.34"
+      },
+      {
+        "rubrique": "Matériel de transport",
+        "brut": "2 875 189.17",
+        "amort_prov": "715 927.61",
+        "net": "2 159 261.56",
+        "net_precedent": "1 221 273.34"
+      },
+      {
+        "rubrique": "IMMOBILISATIONS FINANCIERES (D)",
+        "brut": "6 000.00",
+        "amort_prov": "",
+        "net": "6 000.00",
+        "net_precedent": "6 000.00"
+      },
+      {
+        "rubrique": "Autres créances financières",
+        "brut": "6 000.00",
+        "amort_prov": "",
+        "net": "6 000.00",
+        "net_precedent": "6 000.00"
+      },
+      {
+        "rubrique": "TOTAL I (A+B+C+D+E)",
+        "brut": "2 924 404.17",
+        "amort_prov": "727 469.20",
+        "net": "2 196 934.97",
+        "net_precedent": "1 246 421.46"
+      },
+      {
+        "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+        "brut": "655 652.39",
+        "amort_prov": "",
+        "net": "655 652.39",
+        "net_precedent": "114 018.46"
+      },
+      {
+        "rubrique": "Clients et comptes rattachés",
+        "brut": "304 200.00",
+        "amort_prov": "",
+        "net": "304 200.00",
+        "net_precedent": ""
+      },
+      {
+        "rubrique": "Etat",
+        "brut": "351 452.39",
+        "amort_prov": "",
+        "net": "351 452.39",
+        "net_precedent": "114 018.46"
+      },
+      {
+        "rubrique": "TOTAL II (F+G+H+I)",
+        "brut": "655 652.39",
+        "amort_prov": "",
+        "net": "655 652.39",
+        "net_precedent": "114 018.46"
+      },
+      {
+        "rubrique": "Banque, T.G et C.C.P.",
+        "brut": "53 863.55",
+        "amort_prov": "",
+        "net": "53 863.55",
+        "net_precedent": "101 962.60"
+      },
+      {
+        "rubrique": "Caisses, régies d'avances et accréditifs",
+        "brut": "588 251.13",
+        "amort_prov": "",
+        "net": "588 251.13",
+        "net_precedent": "5 406.18"
+      },
+      {
+        "rubrique": "TOTAL III",
+        "brut": "642 114.68",
+        "amort_prov": "",
+        "net": "642 114.68",
+        "net_precedent": "107 368.78"
+      },
+      {
+        "rubrique": "TOTAL GENERAL I + II + III",
+        "brut": "4 222 171.24",
+        "amort_prov": "727 469.20",
+        "net": "3 494 702.04",
+        "net_precedent": "1 467 808.70"
+      }
+    ]
+  },
+  "passif": {
+    "company_name": "GHALINA RENT CAR",
+    "document_title": "BILAN ( Passif )",
+    "model": "Modèle Normal",
+    "fiscal_id": "52522728",
+    "exercise_period": "01/01/2024 au 31/12/2024"
+  },
+  "entreprise": null,
+  "exercice_clos_le": null
+}

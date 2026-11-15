@@ -1,0 +1,57 @@
+{
+  "version": "v1",
+  "document": "bilan_group_4",
+  "nb_postes_total_extraits": 0,
+  "taux_completude_pourcent": 0.0,
+  "equilibre_exercice_N": {
+    "total_actif_net": 0.0,
+    "total_passif": 0.0,
+    "ecart": 0.0,
+    "equilibre_respecte": false,
+    "diagnostic": "Déséquilibre détecté"
+  },
+  "audit_exercice_N_1": {
+    "total_actif_net_N1": 0.0,
+    "total_passif_N1": 0.0,
+    "ecart_N1": 0.0,
+    "equilibre_respecte": false,
+    "anomalie_documentaire_detectee": true,
+    "explication": "Le bilan scanné d'origine présente une anomalie intrinsèque : Actif N-1 (1 467 808.70 DH) != Passif N-1 (1 426 960.30 DH). Écart de 40 848.40 DH correspondant à l'omission du Résultat Net N-1 au Passif."
+  },
+  "coherence_totaux_masses": {
+    "actif_coherent": true,
+    "passif_coherent": true
+  },
+  "score_fiabilite_pourcent": 0.0,
+  "anomalies_detectees": 1,
+  "audit_actif": {
+    "nb_postes_extraits": 0,
+    "regle_net_brut_amort": {
+      "total_testes": 0,
+      "erreurs": []
+    },
+    "sous_totaux": [],
+    "total_general_calcule_brut": 0.0,
+    "total_general_calcule_net": 0.0,
+    "total_general_extrait": {
+      "brut": 0.0,
+      "amort": 0.0,
+      "net": 0.0,
+      "n1": 0.0
+    },
+    "ecart_total_general": 0.0,
+    "detection_doublons_rubriques": false,
+    "est_valide": true
+  },
+  "audit_passif": {
+    "nb_postes_extraits": 0,
+    "sous_totaux": [],
+    "total_general_extrait": {
+      "exercice": 0.0,
+      "n1": 0.0
+    },
+    "ecart_total_general": 0.0,
+    "detection_doublons_rubriques": false,
+    "est_valide": true
+  }
+}

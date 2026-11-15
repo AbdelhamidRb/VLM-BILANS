@@ -1,0 +1,101 @@
+{
+  "version": "v2",
+  "document": "bilan_group_4",
+  "nb_postes_total_extraits": 22,
+  "taux_completude_pourcent": 100.0,
+  "equilibre_exercice_N": {
+    "total_actif_net": 3494702.04,
+    "total_passif": 3494702.04,
+    "ecart": 0.0,
+    "equilibre_respecte": true,
+    "diagnostic": "Équilibre comptable parfait"
+  },
+  "audit_exercice_N_1": {
+    "total_actif_net_N1": 1467808.7,
+    "total_passif_N1": 1426960.3,
+    "ecart_N1": 40848.4,
+    "equilibre_respecte": false,
+    "anomalie_documentaire_detectee": true,
+    "explication": "Le bilan scanné d'origine présente une anomalie intrinsèque : Actif N-1 (1 467 808.70 DH) != Passif N-1 (1 426 960.30 DH). Écart de 40 848.40 DH correspondant à l'omission du Résultat Net N-1 au Passif."
+  },
+  "coherence_totaux_masses": {
+    "actif_coherent": true,
+    "passif_coherent": true
+  },
+  "score_fiabilite_pourcent": 100.0,
+  "anomalies_detectees": 0,
+  "audit_actif": {
+    "nb_postes_extraits": 11,
+    "regle_net_brut_amort": {
+      "total_testes": 11,
+      "erreurs": []
+    },
+    "sous_totaux": [
+      {
+        "masse": "TOTAL I - ACTIF IMMOBILISE",
+        "net_officiel_extrait": 2196934.97,
+        "net_somme_postes": 4393869.94,
+        "double_comptage_rubrique_poste": true,
+        "conforme": true
+      },
+      {
+        "masse": "TOTAL II - ACTIF CIRCULANT",
+        "net_officiel_extrait": 655652.39,
+        "net_somme_postes": 1311304.78,
+        "double_comptage_rubrique_poste": true,
+        "conforme": true
+      },
+      {
+        "masse": "TOTAL III - TRESORERIE ACTIF",
+        "net_officiel_extrait": 642114.68,
+        "net_somme_postes": 642114.68,
+        "double_comptage_rubrique_poste": false,
+        "conforme": true
+      }
+    ],
+    "total_general_calcule_brut": 0.0,
+    "total_general_calcule_net": 0.0,
+    "total_general_extrait": {
+      "brut": 4222171.24,
+      "amort": 727469.2,
+      "net": 3494702.04,
+      "n1": 1467808.7
+    },
+    "ecart_total_general": 0.0,
+    "detection_doublons_rubriques": true,
+    "est_valide": true
+  },
+  "audit_passif": {
+    "nb_postes_extraits": 11,
+    "sous_totaux": [
+      {
+        "masse": "TOTAL I - FINANCEMENT PERMANENT",
+        "exercice_officiel_extrait": 2476438.91,
+        "exercice_somme_postes": 5452877.82,
+        "double_comptage_rubrique_poste": false,
+        "conforme": false
+      },
+      {
+        "masse": "TOTAL II - PASSIF CIRCULANT",
+        "exercice_officiel_extrait": 1018263.13,
+        "exercice_somme_postes": 2036526.26,
+        "double_comptage_rubrique_poste": true,
+        "conforme": true
+      },
+      {
+        "masse": "TOTAL III - TRESORERIE PASSIF",
+        "exercice_officiel_extrait": 0.0,
+        "exercice_somme_postes": 0.0,
+        "double_comptage_rubrique_poste": true,
+        "conforme": true
+      }
+    ],
+    "total_general_extrait": {
+      "exercice": 3494702.04,
+      "n1": 1426960.3
+    },
+    "ecart_total_general": 0.0,
+    "detection_doublons_rubriques": true,
+    "est_valide": true
+  }
+}

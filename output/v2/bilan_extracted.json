@@ -1,0 +1,408 @@
+{
+  "version": "v2",
+  "document": "bilan_group_4",
+  "actif": {
+    "type_page": "ACTIF",
+    "entreprise": "GHALINA RENT CAR",
+    "exercice_clos_le": "31/12/2024",
+    "actif_immobilise": [
+      {
+        "poste": "IMMOBILISATIONS EN NON VALEURS",
+        "brut": 43215.0,
+        "amortissements_provisions": 11541.59,
+        "net": 31673.41,
+        "exercice_precedent": 19148.12
+      },
+      {
+        "poste": "CHARGES A REPARTIR SUR PLUSIEURS EXERCICES",
+        "brut": 43215.0,
+        "amortissements_provisions": 11541.59,
+        "net": 31673.41,
+        "exercice_precedent": 19148.12
+      },
+      {
+        "poste": "IMMOBILISATIONS CORPORELLES",
+        "brut": 2875189.17,
+        "amortissements_provisions": 715927.61,
+        "net": 2159261.56,
+        "exercice_precedent": 1221273.34
+      },
+      {
+        "poste": "MATERIEL DE TRANSPORT",
+        "brut": 2875189.17,
+        "amortissements_provisions": 715927.61,
+        "net": 2159261.56,
+        "exercice_precedent": 1221273.34
+      },
+      {
+        "poste": "IMMOBILISATIONS FINANCIERES",
+        "brut": 6000.0,
+        "amortissements_provisions": 0.0,
+        "net": 6000.0,
+        "exercice_precedent": 6000.0
+      },
+      {
+        "poste": "AUTRES CREANCES FINANCIERES",
+        "brut": 6000.0,
+        "amortissements_provisions": 0.0,
+        "net": 6000.0,
+        "exercice_precedent": 6000.0
+      }
+    ],
+    "total_actif_immobilise": {
+      "poste": "TOTAL I (A+B+C+D+E)",
+      "brut": 2924404.17,
+      "amortissements_provisions": 727469.2,
+      "net": 2196934.97,
+      "exercice_precedent": 1246421.46
+    },
+    "actif_circulant": [
+      {
+        "poste": "CREANCES DE L'ACTIF CIRCULANT",
+        "brut": 655652.39,
+        "amortissements_provisions": 0.0,
+        "net": 655652.39,
+        "exercice_precedent": 114018.46
+      },
+      {
+        "poste": "CLIENTS ET COMPTES RATTACHES",
+        "brut": 304200.0,
+        "amortissements_provisions": 0.0,
+        "net": 304200.0,
+        "exercice_precedent": 0.0
+      },
+      {
+        "poste": "ETAT",
+        "brut": 351452.39,
+        "amortissements_provisions": 0.0,
+        "net": 351452.39,
+        "exercice_precedent": 114018.46
+      }
+    ],
+    "total_actif_circulant": {
+      "poste": "TOTAL II (F+G+H+I)",
+      "brut": 655652.39,
+      "amortissements_provisions": 0.0,
+      "net": 655652.39,
+      "exercice_precedent": 114018.46
+    },
+    "tresorerie_actif": [
+      {
+        "poste": "BANQUE, T.G ET C.C.P.",
+        "brut": 53863.55,
+        "amortissements_provisions": 0.0,
+        "net": 53863.55,
+        "exercice_precedent": 101962.6
+      },
+      {
+        "poste": "CAISSES, REGIES D'AVANCES ET ACCREDITIFS",
+        "brut": 588251.13,
+        "amortissements_provisions": 0.0,
+        "net": 588251.13,
+        "exercice_precedent": 5406.18
+      }
+    ],
+    "total_tresorerie_actif": {
+      "poste": "TOTAL III",
+      "brut": 642114.68,
+      "amortissements_provisions": 0.0,
+      "net": 642114.68,
+      "exercice_precedent": 107368.78
+    },
+    "total_general_actif": {
+      "poste": "TOTAL GENERAL I + II + III",
+      "brut": 4222171.24,
+      "amortissements_provisions": 727469.2,
+      "net": 3494702.04,
+      "exercice_precedent": 1467808.7
+    }
+  },
+  "passif": {
+    "type_page": "PASSIF",
+    "entreprise": "GHALINA RENT CAR",
+    "exercice_clos_le": "31/12/2024",
+    "financement_permanent": [
+      {
+        "poste": "CAPITAL SOCIAL OU PERSONNEL",
+        "exercice": 500000.0,
+        "exercice_precedent": 500000.0
+      },
+      {
+        "poste": "CAPITAL APPELÉ DONT VERSÉ",
+        "exercice": 500000.0,
+        "exercice_precedent": 500000.0
+      },
+      {
+        "poste": "REPORTS À NOUVEAU",
+        "exercice": -14383.33,
+        "exercice_precedent": -55231.73
+      },
+      {
+        "poste": "RÉSULTAT NET DE L'EXERCICE",
+        "exercice": 504133.77,
+        "exercice_precedent": 0.0
+      },
+      {
+        "poste": "TOTAL DES CAPITAUX PROPRES (A)",
+        "exercice": 989750.44,
+        "exercice_precedent": 444768.27
+      },
+      {
+        "poste": "DETTES DE FINANCEMENT (C)",
+        "exercice": 1486688.47,
+        "exercice_precedent": 637378.9
+      },
+      {
+        "poste": "AUTRES DETTES DE FINANCEMENT",
+        "exercice": 1486688.47,
+        "exercice_precedent": 637378.9
+      }
+    ],
+    "total_financement_permanent": {
+      "poste": "TOTAL I (A+B+C+D+E)",
+      "exercice": 2476438.91,
+      "exercice_precedent": 1082147.17
+    },
+    "passif_circulant": [
+      {
+        "poste": "DETTES DU PASSIF CIRCULANT (F)",
+        "exercice": 1018263.13,
+        "exercice_precedent": 344813.13
+      },
+      {
+        "poste": "FOURNISSEURS ET COMPTES RATTACHÉS",
+        "exercice": 3000.0,
+        "exercice_precedent": 75000.0
+      },
+      {
+        "poste": "ETAT",
+        "exercice": 160700.0,
+        "exercice_precedent": 0.0
+      },
+      {
+        "poste": "COMPTES D'ASSOCIÉS",
+        "exercice": 854563.13,
+        "exercice_precedent": 269813.13
+      }
+    ],
+    "total_passif_circulant": {
+      "poste": "TOTAL II (F+G+H)",
+      "exercice": 1018263.13,
+      "exercice_precedent": 344813.13
+    },
+    "tresorerie_passif": [],
+    "total_tresorerie_passif": {
+      "poste": "TOTAL III",
+      "exercice": 0.0,
+      "exercice_precedent": 0.0
+    },
+    "total_general_passif": {
+      "poste": "TOTAL GENERAL I + II + III",
+      "exercice": 3494702.04,
+      "exercice_precedent": 1426960.3
+    }
+  },
+  "entreprise": "GHALINA RENT CAR",
+  "exercice_clos_le": "31/12/2024",
+  "pydantic_validated": true,
+  "bilan_structure": {
+    "entreprise": "GHALINA RENT CAR",
+    "exercice_clos_le": "31/12/2024",
+    "unite": "DH",
+    "actif": {
+      "actif_immobilise": [
+        {
+          "poste": "IMMOBILISATIONS EN NON VALEURS",
+          "brut": 43215.0,
+          "amortissements_provisions": 11541.59,
+          "net": 31673.41,
+          "exercice_precedent": 19148.12
+        },
+        {
+          "poste": "CHARGES A REPARTIR SUR PLUSIEURS EXERCICES",
+          "brut": 43215.0,
+          "amortissements_provisions": 11541.59,
+          "net": 31673.41,
+          "exercice_precedent": 19148.12
+        },
+        {
+          "poste": "IMMOBILISATIONS CORPORELLES",
+          "brut": 2875189.17,
+          "amortissements_provisions": 715927.61,
+          "net": 2159261.56,
+          "exercice_precedent": 1221273.34
+        },
+        {
+          "poste": "MATERIEL DE TRANSPORT",
+          "brut": 2875189.17,
+          "amortissements_provisions": 715927.61,
+          "net": 2159261.56,
+          "exercice_precedent": 1221273.34
+        },
+        {
+          "poste": "IMMOBILISATIONS FINANCIERES",
+          "brut": 6000.0,
+          "amortissements_provisions": 0.0,
+          "net": 6000.0,
+          "exercice_precedent": 6000.0
+        },
+        {
+          "poste": "AUTRES CREANCES FINANCIERES",
+          "brut": 6000.0,
+          "amortissements_provisions": 0.0,
+          "net": 6000.0,
+          "exercice_precedent": 6000.0
+        }
+      ],
+      "total_actif_immobilise": {
+        "poste": "TOTAL I (A+B+C+D+E)",
+        "brut": 2924404.17,
+        "amortissements_provisions": 727469.2,
+        "net": 2196934.97,
+        "exercice_precedent": 1246421.46
+      },
+      "actif_circulant": [
+        {
+          "poste": "CREANCES DE L'ACTIF CIRCULANT",
+          "brut": 655652.39,
+          "amortissements_provisions": 0.0,
+          "net": 655652.39,
+          "exercice_precedent": 114018.46
+        },
+        {
+          "poste": "CLIENTS ET COMPTES RATTACHES",
+          "brut": 304200.0,
+          "amortissements_provisions": 0.0,
+          "net": 304200.0,
+          "exercice_precedent": 0.0
+        },
+        {
+          "poste": "ETAT",
+          "brut": 351452.39,
+          "amortissements_provisions": 0.0,
+          "net": 351452.39,
+          "exercice_precedent": 114018.46
+        }
+      ],
+      "total_actif_circulant": {
+        "poste": "TOTAL II (F+G+H+I)",
+        "brut": 655652.39,
+        "amortissements_provisions": 0.0,
+        "net": 655652.39,
+        "exercice_precedent": 114018.46
+      },
+      "tresorerie_actif": [
+        {
+          "poste": "BANQUE, T.G ET C.C.P.",
+          "brut": 53863.55,
+          "amortissements_provisions": 0.0,
+          "net": 53863.55,
+          "exercice_precedent": 101962.6
+        },
+        {
+          "poste": "CAISSES, REGIES D'AVANCES ET ACCREDITIFS",
+          "brut": 588251.13,
+          "amortissements_provisions": 0.0,
+          "net": 588251.13,
+          "exercice_precedent": 5406.18
+        }
+      ],
+      "total_tresorerie_actif": {
+        "poste": "TOTAL III",
+        "brut": 642114.68,
+        "amortissements_provisions": 0.0,
+        "net": 642114.68,
+        "exercice_precedent": 107368.78
+      },
+      "total_general_actif": {
+        "poste": "TOTAL GENERAL I + II + III",
+        "brut": 4222171.24,
+        "amortissements_provisions": 727469.2,
+        "net": 3494702.04,
+        "exercice_precedent": 1467808.7
+      }
+    },
+    "passif": {
+      "financement_permanent": [
+        {
+          "poste": "CAPITAL SOCIAL OU PERSONNEL",
+          "exercice": 500000.0,
+          "exercice_precedent": 500000.0
+        },
+        {
+          "poste": "CAPITAL APPELÉ DONT VERSÉ",
+          "exercice": 500000.0,
+          "exercice_precedent": 500000.0
+        },
+        {
+          "poste": "REPORTS À NOUVEAU",
+          "exercice": -14383.33,
+          "exercice_precedent": -55231.73
+        },
+        {
+          "poste": "RÉSULTAT NET DE L'EXERCICE",
+          "exercice": 504133.77,
+          "exercice_precedent": 0.0
+        },
+        {
+          "poste": "TOTAL DES CAPITAUX PROPRES (A)",
+          "exercice": 989750.44,
+          "exercice_precedent": 444768.27
+        },
+        {
+          "poste": "DETTES DE FINANCEMENT (C)",
+          "exercice": 1486688.47,
+          "exercice_precedent": 637378.9
+        },
+        {
+          "poste": "AUTRES DETTES DE FINANCEMENT",
+          "exercice": 1486688.47,
+          "exercice_precedent": 637378.9
+        }
+      ],
+      "total_financement_permanent": {
+        "poste": "TOTAL I (A+B+C+D+E)",
+        "exercice": 2476438.91,
+        "exercice_precedent": 1082147.17
+      },
+      "passif_circulant": [
+        {
+          "poste": "DETTES DU PASSIF CIRCULANT (F)",
+          "exercice": 1018263.13,
+          "exercice_precedent": 344813.13
+        },
+        {
+          "poste": "FOURNISSEURS ET COMPTES RATTACHÉS",
+          "exercice": 3000.0,
+          "exercice_precedent": 75000.0
+        },
+        {
+          "poste": "ETAT",
+          "exercice": 160700.0,
+          "exercice_precedent": 0.0
+        },
+        {
+          "poste": "COMPTES D'ASSOCIÉS",
+          "exercice": 854563.13,
+          "exercice_precedent": 269813.13
+        }
+      ],
+      "total_passif_circulant": {
+        "poste": "TOTAL II (F+G+H)",
+        "exercice": 1018263.13,
+        "exercice_precedent": 344813.13
+      },
+      "tresorerie_passif": [],
+      "total_tresorerie_passif": {
+        "poste": "TOTAL III",
+        "exercice": 0.0,
+        "exercice_precedent": 0.0
+      },
+      "total_general_passif": {
+        "poste": "TOTAL GENERAL I + II + III",
+        "exercice": 3494702.04,
+        "exercice_precedent": 1426960.3
+      }
+    }
+  }
+}
